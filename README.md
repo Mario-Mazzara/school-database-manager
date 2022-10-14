@@ -1,5 +1,5 @@
 # school-database-manager
-sql database + manager
+SQL database + manager
 learning repo
 
 database: mySQL
